@@ -68,7 +68,7 @@ h4 {
   font-family: "gestaw01-regularregular";
   z-index: 0;
   top: -10px;
-    left: -15px;
+  left: -15px;
 }
 .red-shape span {
   text-align: center;
@@ -116,6 +116,9 @@ h4 {
   align-items: center;
 }
 @media (max-width: 768px) {
+  .photos {
+    gap: 4px;
+  }
   .photo {
     color: #fff;
     border-radius: 10px;
