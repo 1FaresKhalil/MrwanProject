@@ -127,6 +127,17 @@ h4 {
     height: 190px;
     font-size: 11px;
   }
+  .blue-layer {
+    border-radius: 10px;
+    padding: 5px 6px 1px 6px;
+    width: 100%;
+  }
+  .blue-layer span img{
+    width: 9px;
+  }
+  .blue-layer img{
+    width: 11px;
+  }
 }
 .rounded-box {
   margin: 30px 0;
